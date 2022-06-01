@@ -18,5 +18,6 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Build
 - [App size analysis in Flutter](https://vrgl.ir/hJFsd) (Persian)
+- [Reduce the file size of the Flutter application apk](https://vrgl.ir/UrS7I) (Persian)
 
 

@@ -3,19 +3,19 @@
 This repository contains content links in Persian and English for learning Flutter.
 
 ## Basics
-- [Staless and Stateful : (Persian)](https://vrgl.ir/PKsgS)
-- [Context : (Persian)](https://vrgl.ir/hb8yD)
+- [Staless and Stateful](https://vrgl.ir/PKsgS) (Persian)
+- [Context](https://vrgl.ir/hb8yD) (Persian)
 
 ## State Management
-- [Bloc : (Persian)](https://vrgl.ir/nap9M)
+- [Bloc](https://vrgl.ir/nap9M) (Persian)
 
 ## Principles
-- [Dependency Management : (Persian)](https://vrgl.ir/z8xDz)
+- [Dependency Management](https://vrgl.ir/z8xDz) (Persian)
 
 ## Interview
-- [Three Common Questions in All Job Interviews : (Persian)](https://vrgl.ir/D7kwt)
+- [Three Common Questions in All Job Interviews](https://vrgl.ir/D7kwt) (Persian)
 
 ## Build
-- [App size analysis in Flutter : (Persian)](https://vrgl.ir/hJFsd)
+- [App size analysis in Flutter](https://vrgl.ir/hJFsd) (Persian)
 
 

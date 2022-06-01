@@ -11,6 +11,7 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Principles
 - [Dependency Management](https://vrgl.ir/z8xDz) (Persian)
+- [SOLID](https://vrgl.ir/G52RF) (Persian)
 
 ## Interview
 - [Three Common Questions in All Job Interviews](https://vrgl.ir/D7kwt) (Persian)

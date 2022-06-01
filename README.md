@@ -6,5 +6,11 @@ This repository contains content links in Persian and English for learning Flutt
 - [Staless and Stateful : (Persian)](https://vrgl.ir/PKsgS)
 - [Context : (Persian)](https://vrgl.ir/hb8yD)
 
-## StateManagement
+## State Management
 - [Bloc : (Persian)](https://vrgl.ir/nap9M)
+
+## Principles
+- [Dependency Management : (Persian)](https://vrgl.ir/z8xDz)
+
+
+

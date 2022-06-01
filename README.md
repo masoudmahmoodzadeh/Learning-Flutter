@@ -15,4 +15,7 @@ This repository contains content links in Persian and English for learning Flutt
 ## Interview
 - [Three Common Questions in All Job Interviews : (Persian)](https://vrgl.ir/D7kwt)
 
+## Build
+- [App size analysis in Flutter : (Persian)](https://vrgl.ir/hJFsd)
+
 

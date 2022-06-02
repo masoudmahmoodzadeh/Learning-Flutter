@@ -7,6 +7,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Context](https://vrgl.ir/hb8yD) (Persian)
 - [Factory Constructor vs Static Method](https://vrgl.ir/uTF8S) (Persian)
 - [Null Safety](https://vrgl.ir/5j891) (Persian)
+- [pubspec.yaml](https://vrgl.ir/nafrh) (Persian)
 
 ## State Management
 - [Bloc](https://vrgl.ir/nap9M) (Persian)

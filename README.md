@@ -5,7 +5,8 @@ This repository contains content links in Persian and English for learning Flutt
 ## Basics
 - [Staless and Stateful](https://vrgl.ir/PKsgS) (Persian)
 - [Context](https://vrgl.ir/hb8yD) (Persian)
-- [factory constructor vs static method](https://vrgl.ir/uTF8S) (Persian)
+- [Factory Constructor vs Static Method](https://vrgl.ir/uTF8S) (Persian)
+- [Null Safety](https://vrgl.ir/5j891) (Persian)
 
 ## State Management
 - [Bloc](https://vrgl.ir/nap9M) (Persian)

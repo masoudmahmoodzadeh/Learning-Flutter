@@ -24,4 +24,4 @@ This repository contains content links in Persian and English for learning Flutt
 - [کم کردن حجم فایل apk اپلیکیشن فلاتر](https://vrgl.ir/UrS7I)
 
 ## General
-- [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/lG3XF) (Persian)
+- [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/lG3XF)

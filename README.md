@@ -9,6 +9,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Null Safety](https://vrgl.ir/5j891)
 - [pubspec.yaml](https://vrgl.ir/nafrh)
 - [توضیحات کامل در مورد Key](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
+- [Flutter Project Structure](https://codewithandrea.com/articles/flutter-project-structure/#how-to-do-feature-first-the-right-way)
 
 ## State Management
 - [‌از سیر تا پیازِ BLoc](https://vrgl.ir/nap9M)

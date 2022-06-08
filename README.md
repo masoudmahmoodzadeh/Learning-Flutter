@@ -28,7 +28,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [کم کردن حجم فایل apk اپلیکیشن فلاتر](https://vrgl.ir/UrS7I)
 
 ## General
-- [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/lG3XF)
+- [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/VpJv1)
 - [مهارت‌ها و تکنولوژی‌هایی که باید در Flutter یاد بگیرید](https://vrgl.ir/zJt2K)
 - [پروتکل OAuth2.0](https://vrgl.ir/lG3XF)
 - [تفاوت بین برنامه‌نویسی اعلانی و دستوری](https://roocket.ir/articles/the-difference-between-declarative-and-imperative-programming)

@@ -8,10 +8,9 @@ This repository contains content links in Persian and English for learning Flutt
 - [فرق بین Factory Constructor و Static Method](https://vrgl.ir/uTF8S)
 - [Null Safety](https://vrgl.ir/5j891)
 - [pubspec.yaml](https://vrgl.ir/nafrh)
-- [توضیحات کامل در مورد Key](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
 - [Flutter Project Structure](https://codewithandrea.com/articles/flutter-project-structure/#how-to-do-feature-first-the-right-way)
 - [Flutter Responsive UI](https://www.youtube.com/watch?v=kmZz_q7W2jI)
-- [Keys! What are they good for?](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
+- [Keys! What are they good for](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
 
 ## State Management
 - [‌از سیر تا پیازِ BLoc](https://vrgl.ir/nap9M)

@@ -12,6 +12,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Flutter Responsive UI](https://www.youtube.com/watch?v=kmZz_q7W2jI)
 - [Keys! What are they good for](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
 - [10 best practice for flutter](https://medium.com/@v19sachin/10-best-practices-for-flutter-in-2022-367a65e6eb69)
+- [Deep dive to flutter - type of tree in flutter](https://abhishekdoshi26.medium.com/deep-dive-into-flutter-trees-542f7395df5c)
 
 ## State Management
 - [‌از سیر تا پیازِ BLoc](https://vrgl.ir/nap9M)

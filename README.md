@@ -38,3 +38,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [پروتکل OAuth2.0](https://vrgl.ir/lG3XF)
 - [تفاوت بین برنامه‌نویسی اعلانی و دستوری](https://roocket.ir/articles/the-difference-between-declarative-and-imperative-programming)
 - [یک مدل موفق برای Git flow : Git baranching](https://vrgl.ir/HkJgB)
+
+
+## Ui
+- [How to draw and animate designs with Flutter CustomPaint Widget](https://blog.codemagic.io/flutter-custom-painter/)

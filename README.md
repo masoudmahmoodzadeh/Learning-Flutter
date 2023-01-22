@@ -42,3 +42,7 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Ui
 - [How to draw and animate designs with Flutter CustomPaint Widget](https://blog.codemagic.io/flutter-custom-painter/)
+
+##Animations
+
+- [Getting Started With Staggered Animations in Flutter](https://www.kodeco.com/31284650-getting-started-with-staggered-animations-in-flutter)

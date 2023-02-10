@@ -19,7 +19,7 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## State Management
 - [‌از سیر تا پیازِ BLoc](https://vrgl.ir/nap9M)
-- [10 Flutter BLoC Best Practices](https://climbtheladder.com/10-flutter-bloc-best-practices/)
+- [- 10 Flutter BLoC Best Practices](https://climbtheladder.com/10-flutter-bloc-best-practices/)
 
 ## Principles
 - [مدیریت وابستگی در برنامه نویسی به زبون آدمیزاد](https://vrgl.ir/z8xDz)

@@ -28,7 +28,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [مدیریت وابستگی در برنامه نویسی به زبون آدمیزاد](https://vrgl.ir/z8xDz)
 - [مفاهیم SOLID در فلاتر](https://vrgl.ir/G52RF)
 - [پنج اصل SOLID](https://solid.isapanah.com/) توضیحات این کتاب در مورد SOLID خیلی خوب و روان هست حتما بخونین
-
+- [برنامه نویسی ماژولار](https://vrgl.ir/aoWcK)
 ## Interview
 - [سه سوال رایج همه مصاحبه‌های کاری](https://vrgl.ir/D7kwt)
 

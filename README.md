@@ -62,3 +62,6 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Performance
 - [Flutter: Performance analysis of `const` constructor](https://medium.com/nerd-for-tech/flutter-performance-analysis-of-const-constructor-d2a72fd8a043)
+
+## Debug
+- [دیباگ رابطه کاربری با استفاده از Flutter Inspector](https://flutter-learn.ir/%d8%af%db%8c%d8%a8%d8%a7%da%af-%d8%b1%d8%a7%d8%a8%d8%b7%d9%87-%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%db%8c-%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%a7%d8%b2-flutter-inspector/)

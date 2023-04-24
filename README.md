@@ -17,9 +17,14 @@ This repository contains content links in Persian and English for learning Flutt
 - [When to use async, await, then and Future in Dart?](https://jelenaaa.medium.com/when-to-use-async-await-then-and-future-in-dart-5e00e64ab9b1)
 - [What are ??, ??=, ?., …? in Dart?](https://jelenaaa.medium.com/what-are-in-dart-df1f11706dd6)
 - [توضیحاتی کوتاه در مورد isolate و multi thread در فلاتر](https://vrgl.ir/ZCk2j)
-- [Learn Flutter Life Cycle](https://www.youtube.com/watch?v=CjloInz3-I0&t=266s)
+
+## Life cycle
 - [Flutter From Zero to Hero. Widget lifecycle in action](https://medium.com/@NALSengineering/flutter-from-zero-to-hero-part-8-widget-lifecycle-in-action-8dcb9abf3dcf)
+- [Learn Flutter Life Cycle](https://www.youtube.com/watch?v=CjloInz3-I0&t=266s)
 - [App Lifecycle In Flutter](https://medium.flutterdevs.com/app-lifecycle-in-flutter-c248d894b830)
+
+
+
 
 ## State Management
 - [‌از سیر تا پیازِ BLoc](https://vrgl.ir/nap9M)

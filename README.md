@@ -23,9 +23,6 @@ This repository contains content links in Persian and English for learning Flutt
 - [Learn Flutter Life Cycle](https://www.youtube.com/watch?v=CjloInz3-I0&t=266s)
 - [App Lifecycle In Flutter](https://medium.flutterdevs.com/app-lifecycle-in-flutter-c248d894b830)
 
-
-
-
 ## State Management
 - [‌از سیر تا پیازِ BLoc](https://vrgl.ir/nap9M)
 - [Flutter bloc for beginners](https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5)
@@ -73,3 +70,7 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Debug
 - [دیباگ رابطه کاربری با استفاده از Flutter Inspector](https://flutter-learn.ir/%d8%af%db%8c%d8%a8%d8%a7%da%af-%d8%b1%d8%a7%d8%a8%d8%b7%d9%87-%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%db%8c-%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%a7%d8%b2-flutter-inspector/)
+
+## Packages
+- [Top 10 Flutter Packages That Speed up Your App Development](https://genotechies.medium.com/top-10-flutter-packages-that-speed-up-your-app-development-f1acec74bd5f)
+

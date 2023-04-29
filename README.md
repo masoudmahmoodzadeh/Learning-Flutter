@@ -43,6 +43,7 @@ This repository contains content links in Persian and English for learning Flutt
 ## Build
 - [تحلیل سایز اپ در فلاتر](https://vrgl.ir/hJFsd)
 - [کم کردن حجم فایل apk اپلیکیشن فلاتر](https://vrgl.ir/UrS7I)
+- [Flavors in Flutter - Multiple apps from one source code](https://www.youtube.com/watch?v=4Y7WaeU3P60)
 
 ## General
 - [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/VpJv1)

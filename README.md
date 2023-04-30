@@ -40,10 +40,11 @@ This repository contains content links in Persian and English for learning Flutt
 ## Interview
 - [سه سوال رایج همه مصاحبه‌های کاری](https://vrgl.ir/D7kwt)
 
-## Build
+## Build & Release
 - [تحلیل سایز اپ در فلاتر](https://vrgl.ir/hJFsd)
 - [کم کردن حجم فایل apk اپلیکیشن فلاتر](https://vrgl.ir/UrS7I)
 - [Flavors in Flutter - Multiple apps from one source code](https://www.youtube.com/watch?v=4Y7WaeU3P60)
+-[How to Publish Your Flutter App to Apple App Store with XCode](https://www.youtube.com/watch?v=4_rcaPvDaKM)
 
 ## General
 - [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/VpJv1)

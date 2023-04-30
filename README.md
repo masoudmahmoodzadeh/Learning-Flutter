@@ -68,7 +68,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [A Comprehensive Guide to Mockito in Flutter](https://dev.to/infiniteoverflow/a-comprehensive-guide-to-mockito-in-flutter-1od0)
 - [TDD in Flutter With Example Application Using Riverpod and Firebase](https://q.agency/blog/tdd-in-flutter-with-example-application-using-riverpod-and-firebase/)
 - [Flutter Unit Testing — The Beginner’s Guide](https://betterprogramming.pub/flutter-unit-testing-the-beginners-guide-35105164722e)
-- [Clean Architecture Tdd Bloc Flutter Todo](https://github.com/misaJohary/clean_architecture_tdd_bloc_flutter_todo)\
+- [Clean Architecture Tdd Bloc Flutter Todo](https://github.com/misaJohary/clean_architecture_tdd_bloc_flutter_todo)
 - [Flutter Clean Architecture Tdd](https://github.com/GnuaAruht/flutter_clean_architecture_tdd)
 
 ## Performance

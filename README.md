@@ -31,6 +31,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Flutter bloc for beginners](https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5)
 - [BLoC Best Practices](https://climbtheladder.com/10-flutter-bloc-best-practices/)
 - [Flutter-BLoC + Clean Architecture Best Practice (News APIs)](https://marajhussain.medium.com/flutter-bloc-clean-architecture-best-practice-news-apis-3adb0e2012cc)
+- [Flutter: BLoC + Freezed — Write less code](https://ppantaleon.medium.com/flutter-bloc-freezed-write-less-code-e916d4e0d4cb)
 
 ## Principles
 - [مدیریت وابستگی در برنامه نویسی به زبون آدمیزاد](https://vrgl.ir/z8xDz)
@@ -82,5 +83,4 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Packages
 - [Top 10 Flutter Packages That Speed up Your App Development](https://genotechies.medium.com/top-10-flutter-packages-that-speed-up-your-app-development-f1acec74bd5f)
-- [](test)
 

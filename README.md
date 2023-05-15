@@ -20,6 +20,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Using InheritedWidget Examples](https://www.woolha.com/tutorials/flutter-using-inheritedwidget-examples)
 - [Flutter’s 3 Tree Architecture. A quick overview](https://medium.com/@mustafatahirhussein/flutters-3-tree-architecture-a-quick-overview-94b7e012d53d)
 - [Understand How Flutter works in 4 minutes](https://medium.com/@NALSengineering/flutter-from-zero-to-hero-part-5-understand-how-flutter-works-in-4-minutes-1a3fbd834c0d)
+- [Difference between Const and Final in Dart](https://itnext.io/difference-between-const-and-final-in-dart-78c129d0c573)
 
 ## Life Cycle
 - [Flutter From Zero to Hero. Widget lifecycle in action](https://medium.com/@NALSengineering/flutter-from-zero-to-hero-part-8-widget-lifecycle-in-action-8dcb9abf3dcf)

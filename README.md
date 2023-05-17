@@ -83,7 +83,8 @@ This repository contains content links in Persian and English for learning Flutt
 
 ## Debug
 - [دیباگ رابطه کاربری با استفاده از Flutter Inspector](https://flutter-learn.ir/%d8%af%db%8c%d8%a8%d8%a7%da%af-%d8%b1%d8%a7%d8%a8%d8%b7%d9%87-%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%db%8c-%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%a7%d8%b2-flutter-inspector/)
--[Flutter – Using the Inspector](https://www.geeksforgeeks.org/flutter-using-the-inspector/)
+
+- [Flutter – Using the Inspector](https://www.geeksforgeeks.org/flutter-using-the-inspector/)
 
 ## Packages
 - [Top 10 Flutter Packages That Speed up Your App Development](https://genotechies.medium.com/top-10-flutter-packages-that-speed-up-your-app-development-f1acec74bd5f)

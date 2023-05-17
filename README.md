@@ -45,6 +45,7 @@ This repository contains content links in Persian and English for learning Flutt
 ## Interview
 - [سه سوال رایج همه مصاحبه‌های کاری](https://vrgl.ir/D7kwt)
 - [Flutter Mock Interview | Interview Questions for Flutter Developers](https://www.youtube.com/watch?v=4mATPCxj5M8)
+- [How To Write A Flutter Developer Resume In 7 Steps](https://in.indeed.com/career-advice/resumes-cover-letters/flutter-developer-resume)
 
 ## Build & Release
 - [تحلیل سایز اپ در فلاتر](https://vrgl.ir/hJFsd)

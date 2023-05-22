@@ -9,7 +9,6 @@ This repository contains content links in Persian and English for learning Flutt
 - [Null Safety](https://vrgl.ir/5j891)
 - [pubspec.yaml](https://vrgl.ir/nafrh)
 - [Flutter Project Structure](https://codewithandrea.com/articles/flutter-project-structure/#how-to-do-feature-first-the-right-way)
-- [Flutter Responsive UI](https://www.youtube.com/watch?v=kmZz_q7W2jI)
 - [Keys! What are they good for](https://medium.com/flutter/keys-what-are-they-good-for-13cb51742e7d)
 - [10 best practice for flutter](https://medium.com/@v19sachin/10-best-practices-for-flutter-in-2022-367a65e6eb69)
 - [Deep dive to flutter - type of tree in flutter](https://abhishekdoshi26.medium.com/deep-dive-into-flutter-trees-542f7395df5c)
@@ -64,6 +63,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [How to draw and animate designs with Flutter CustomPaint Widget](https://blog.codemagic.io/flutter-custom-painter/)
 - [Build a Design System in Flutter | How to build a UI package](https://www.youtube.com/watch?v=aRhhUJWHWJY)
 - [How to add SliverAppBar to your Flutter app](https://blog.logrocket.com/how-to-add-sliverappbar-to-your-flutter-app/)
+- [Flutter Responsive UI](https://www.youtube.com/watch?v=kmZz_q7W2jI)
 
 ## Animations
 

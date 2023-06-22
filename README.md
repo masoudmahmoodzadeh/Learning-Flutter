@@ -21,6 +21,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Understand How Flutter works in 4 minutes](https://medium.com/@NALSengineering/flutter-from-zero-to-hero-part-5-understand-how-flutter-works-in-4-minutes-1a3fbd834c0d)
 - [Difference between Const and Final in Dart](https://itnext.io/difference-between-const-and-final-in-dart-78c129d0c573)
 - [What is Difference between async and async* in Dart?](https://flutteragency.com/what-is-difference-between-async-and-async-in-dart/)
+- [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 
 ## Life Cycle
 - [Flutter From Zero to Hero. Widget lifecycle in action](https://medium.com/@NALSengineering/flutter-from-zero-to-hero-part-8-widget-lifecycle-in-action-8dcb9abf3dcf)

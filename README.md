@@ -78,6 +78,9 @@ This repository contains content links in Persian and English for learning Flutt
 - [Flutter Unit Testing — The Beginner’s Guide](https://betterprogramming.pub/flutter-unit-testing-the-beginners-guide-35105164722e)
 - [Clean Architecture Tdd Bloc Flutter Todo](https://github.com/misaJohary/clean_architecture_tdd_bloc_flutter_todo)
 - [Flutter Clean Architecture Tdd](https://github.com/GnuaAruht/flutter_clean_architecture_tdd)
+- [Test Example 1](https://github.com/alvaroarmijos/pokedex)
+- [Test Example 2](https://github.com/oudaykhaled/nyt-flutter-clean-architecture-unit-test)
+
 
 ## Performance
 - [Flutter: Performance analysis of `const` constructor](https://medium.com/nerd-for-tech/flutter-performance-analysis-of-const-constructor-d2a72fd8a043)

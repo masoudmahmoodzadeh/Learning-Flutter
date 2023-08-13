@@ -52,6 +52,8 @@ This repository contains content links in Persian and English for learning Flutt
 - [کم کردن حجم فایل apk اپلیکیشن فلاتر](https://vrgl.ir/UrS7I)
 - [Flavors in Flutter - Multiple apps from one source code](https://www.youtube.com/watch?v=4Y7WaeU3P60)
 - [How to Publish Your Flutter App to Apple App Store with XCode](https://www.youtube.com/watch?v=4_rcaPvDaKM)
+- [Understanding Versioning with Flutter: A Guide to Managing App Releases](https://medium.com/@ChanakaDev/understanding-versioning-with-flutter-a-guide-to-managing-app-releases-57c936f5b8d6)
+
 ## General
 - [چگونه یک توسعه دهنده متوسط نباشیم](https://vrgl.ir/VpJv1)
 - [مهارت‌ها و تکنولوژی‌هایی که باید در Flutter یاد بگیرید](https://vrgl.ir/zJt2K)

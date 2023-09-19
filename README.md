@@ -82,6 +82,7 @@ This repository contains content links in Persian and English for learning Flutt
 - [Flutter Clean Architecture Tdd](https://github.com/GnuaAruht/flutter_clean_architecture_tdd)
 - [Test Example 1](https://github.com/alvaroarmijos/pokedex)
 - [Test Example 2](https://github.com/oudaykhaled/nyt-flutter-clean-architecture-unit-test)
+- [Flutter Integration Testing Tutorial For Beginners - Practical Guide](https://www.youtube.com/watch?v=GuGdIg4iH_k&t=494s)
 
 
 ## Performance
